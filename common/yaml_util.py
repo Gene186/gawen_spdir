@@ -4,10 +4,10 @@ import os
 
 
 #读取yaml文件
-def  read_yaml():
+def  read_yaml(key):
     with open(os.getcwd()+'/extract.yaml',encoding='utf-8') as f:#打开yaml文件
         value = yaml.load(stream=f,Loader=yaml.FullLoader)
-        return value
+        return value[key]
 
 #写入yaml文件,mode='a'表示追加的方式写入
 def  write_yaml(data):
