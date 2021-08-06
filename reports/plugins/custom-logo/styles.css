@@ -1,0 +1,13 @@
+.side-nav__brand {
+  background: url('lyhlogo.png') no-repeat left center !important;
+  margin-left: 15px;
+  height: 46px;
+  background-size: contain !important;
+}
+.side-nav__brand span{
+	display:none;
+}
+.side-nav__brand:after{
+	content:"良医汇";
+	margin-left: 16px;
+}
