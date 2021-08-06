@@ -1,44 +1,5 @@
 {
   "uid" : "b1a8273437954620fa374b796ffaacdd",
   "name" : "behaviors",
-  "children" : [ {
-    "name" : "test01_caseinfo[根哥]",
-    "uid" : "2099e183d05a8fb8",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
-    "time" : {
-      "start" : 1628070630898,
-      "stop" : 1628070630898,
-      "duration" : 0
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "parameters" : [ "'根哥'" ]
-  }, {
-    "name" : "test01_caseinfo[百里]",
-    "uid" : "689df107b4a40b22",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
-    "time" : {
-      "start" : 1628070630901,
-      "stop" : 1628070630901,
-      "duration" : 0
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "parameters" : [ "'百里'" ]
-  }, {
-    "name" : "test01_caseinfo[微微]",
-    "uid" : "50d407c85123a37e",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
-    "time" : {
-      "start" : 1628070630905,
-      "stop" : 1628070630905,
-      "duration" : 0
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "parameters" : [ "'微微'" ]
-  } ]
+  "children" : [ ]
 }

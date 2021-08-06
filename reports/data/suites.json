@@ -1,56 +1,5 @@
 {
   "uid" : "98d3104e051c652961429bf95fa0b5d6",
   "name" : "suites",
-  "children" : [ {
-    "name" : "testcases",
-    "children" : [ {
-      "name" : "test_api_new",
-      "children" : [ {
-        "name" : "TestApi",
-        "children" : [ {
-          "name" : "test01_caseinfo[根哥]",
-          "uid" : "2099e183d05a8fb8",
-          "parentUid" : "93fe08748d664b2c7a0338305e527ef1",
-          "status" : "passed",
-          "time" : {
-            "start" : 1628070630898,
-            "stop" : 1628070630898,
-            "duration" : 0
-          },
-          "flaky" : false,
-          "newFailed" : false,
-          "parameters" : [ "'根哥'" ]
-        }, {
-          "name" : "test01_caseinfo[百里]",
-          "uid" : "689df107b4a40b22",
-          "parentUid" : "93fe08748d664b2c7a0338305e527ef1",
-          "status" : "passed",
-          "time" : {
-            "start" : 1628070630901,
-            "stop" : 1628070630901,
-            "duration" : 0
-          },
-          "flaky" : false,
-          "newFailed" : false,
-          "parameters" : [ "'百里'" ]
-        }, {
-          "name" : "test01_caseinfo[微微]",
-          "uid" : "50d407c85123a37e",
-          "parentUid" : "93fe08748d664b2c7a0338305e527ef1",
-          "status" : "passed",
-          "time" : {
-            "start" : 1628070630905,
-            "stop" : 1628070630905,
-            "duration" : 0
-          },
-          "flaky" : false,
-          "newFailed" : false,
-          "parameters" : [ "'微微'" ]
-        } ],
-        "uid" : "93fe08748d664b2c7a0338305e527ef1"
-      } ],
-      "uid" : "03f86b58f73f6ad51de902f6a8484365"
-    } ],
-    "uid" : "b51346658ccdb9db01a6b5f6c12deab1"
-  } ]
+  "children" : [ ]
 }

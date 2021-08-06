@@ -1,4 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Wed Aug 04 17:50:30 CST 2021","Wed Aug 04 17:50:30 CST 2021","0","testcases","test_api_new","TestApi","","","test01_caseinfo[微微]",""
-"passed","Wed Aug 04 17:50:30 CST 2021","Wed Aug 04 17:50:30 CST 2021","0","testcases","test_api_new","TestApi","","","test01_caseinfo[根哥]",""
-"passed","Wed Aug 04 17:50:30 CST 2021","Wed Aug 04 17:50:30 CST 2021","0","testcases","test_api_new","TestApi","","","test01_caseinfo[百里]",""
